@@ -1,0 +1,26 @@
+#cntlb {
+    display: block;
+    text-align: center;
+    font-size: 10cm;
+    font-family: helventica;
+}
+
+#btncnt {
+    text-align: center;
+
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1.5cm;
+    color: white;
+    background-color: hsl(9, 94%, 49%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition:background-color 0.25s;
+}
+
+.btn:hover {
+    background-color: hsl(80, 95%, 47%);
+
+}
